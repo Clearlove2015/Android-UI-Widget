@@ -1,1 +1,1 @@
-include ':listview', ':recyclerview', ':viewpager-tablayout', ':viewpager'
+include ':listview', ':recyclerview', ':viewpager-tablayout', ':viewpager', ':radiobuttonfragment'
