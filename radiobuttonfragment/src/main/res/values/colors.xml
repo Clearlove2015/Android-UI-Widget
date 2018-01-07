@@ -6,5 +6,5 @@
 
     <!--tab-->
     <color name="hint_text_color">#8f8f8f</color>
-    <color name="red">#FF0000</color>
+    <color name="blue">#3751CC</color>
 </resources>
